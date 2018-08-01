@@ -10,7 +10,7 @@ L’objectif   principal   de   ce   TP   est   la   prise   en   main   de   l�
 mobiles Android
 
 ➤ Connaissances et compétences:
-Savoir​ ​ installer​ ​ l’environnement​ ​ de​ ​ développement​ ​ sur​ ​ son​ ​ poste​ ​ de​ ​ travail 
-Concevoir​ ​ un​ ​ premier​ ​ projet​ ​ avec​ ​ Android​ ​ Studio 
-Savoir​ ​ exécuter​ ​ une​ ​ application​ ​ avec​ ​ un​ ​ émulateur​ ​ de​ ​ terminal 
+Savoir installer l’environnement de développement sur son poste de travail
+Concevoir un premier projet avec Android Studio
+Savoir exécuter​ ​ une​ ​ application​ ​ avec​ ​ un​ ​ émulateur​ ​ de​ ​ terminal 
 Savoir​ ​ utiliser​ ​ un​ ​ entrepôt​ ​ de​ ​ code​ ​ (GitHub) 
